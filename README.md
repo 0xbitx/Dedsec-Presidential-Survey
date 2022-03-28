@@ -1,0 +1,33 @@
+# Dedsec-Presidential-Survey 2022
+## Philippine Presidential Survey 2022 - Phishing tool 
+
+![1](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/dedsecsurvey.png)
+
+
+### INSTALLATION
+* git clone https://github.com/0xbitx/Dedsec-Presidential-Survey.git
+* cd Dedsec-Presidential-Survey
+* sudo bash dedsec-survey.sh
+
+### AVAILABLE TUNNELLING OPTIONS
+1. LOCALHOST
+2. NGROK (https://ngrok.com/)
+3. cloudflare
+### TESTED ON FOLLOWING:
+* Kali Linux
+* Parrot OS
+* Ubuntu
+* Arch Linux
+* Termux App
+### PREREQUISITES
+* sudo - [ MUST ]
+* php
+* ngrok Token
+### LANGUAGE 
+* Bash Script
+
+
+### DISCLAIMER
+                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+
+The use of the dedsec-survey is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
