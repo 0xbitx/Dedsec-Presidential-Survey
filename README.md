@@ -20,7 +20,7 @@
 ### AVAILABLE TUNNELLING OPTIONS
 1. Localhost
 2. Ngrok https://ngrok.com
-3. cloudflared
+3. cloudflare
 ### TESTED ON FOLLOWING:
 * Kali Linux
 * Parrot OS
