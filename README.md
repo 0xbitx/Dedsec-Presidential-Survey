@@ -4,12 +4,12 @@
 ## banner
 ![1](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/dedsecsurvey.png)
 
-## Pishing page
+## Phishing page
 
 ![2](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/form.png)
-
+![3](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/loginpage.png)
 ## Cloud server 
-![3](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/cloud-server.png)
+![4](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/cloud-server.png)
 
 
 ### INSTALLATION
