@@ -8,7 +8,7 @@
 
 ![2](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/form.png)
 ![3](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/loginpage.png)
-## Cloud server 
+## Tested on Google Cloud server - https://console.cloud.google.com
 ![4](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/cloud-server.png)
 
 
@@ -27,6 +27,7 @@
 * Ubuntu
 * Arch Linux
 * Termux App
+* Google cloud server
 ### PREREQUISITES
 * sudo - [ MUST ]
 * php
