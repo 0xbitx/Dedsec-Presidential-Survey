@@ -1,15 +1,14 @@
-# Dedsec-Presidential-Survey 2022
-## Philippine Presidential Survey 2022 - Phishing tool 
+<h1 align="center"> DEDSEC PRESIDENTIAL SURVEY </h1>
+<p align="center"> Philippine Presidential Survey 2022 - Phishing tool </p>
 
-## banner
-![1](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/dedsecsurvey.png)
+<img src="https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/dedsecsurvey.png" width="100%">
 
 ## Phishing page
 
 ![2](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/form.png)
 ![3](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/loginpage.png)
 ## Tested on Google Cloud server - https://console.cloud.google.com
-![4](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/cloud-server.png)
+<img src="https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/cloud-server.png" width="100%">
 
 ### YOUTUBE Video
 <!-- YOUTUBE:START -->
@@ -38,8 +37,7 @@
 ### LANGUAGE 
 * Bash Script
 
+<h1 align="center"> DISCLAIMER </h1>
 
-### DISCLAIMER
-                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
 
-The use of the dedsec-survey is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
